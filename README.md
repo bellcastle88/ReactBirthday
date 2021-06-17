@@ -15,7 +15,7 @@ This is a ReactBirthdayApp which can check people's birthday.
 - Clear All List
 
 ## Preview 
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMKZ9V%2Fbtq7tZhn8JN%2FN4vATqxNFdQbHdtCwaGjKk%2Fimg.png
+![다운로드](https://user-images.githubusercontent.com/65179725/122388739-23170300-cfab-11eb-9345-b3f1bce43078.png)
   
 ## Blog
 https://proglish.tistory.com/163
